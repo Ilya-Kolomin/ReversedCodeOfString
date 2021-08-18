@@ -10,7 +10,7 @@ Download binary file and run it on your local machine
 MacOs: [download](https://github.com/Ilya-Kolomin/ReversedCodeOfString/releases/download/1.0/ReversedCodeOfString)
 (If it is not executable, run in terminal `chmod 755 ReversedCodeOfString`)
 
-MacOs could not allow to run it due to security reasons. Thne go to `SystemSettings -> Security -> General` and allow to run it.
+MacOs could not allow to run it due to security reasons. Then go to `SystemSettings -> Security -> General` and allow to run it.
 
 Windows: [download](https://github.com/Ilya-Kolomin/ReversedCodeOfString/releases/download/1.0/ReversedCodeOfString.exe)
 
