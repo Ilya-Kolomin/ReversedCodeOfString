@@ -14,6 +14,8 @@ MacOs could not allow to run it due to security reasons. Then go to `SystemSetti
 
 Windows: [download](https://github.com/Ilya-Kolomin/ReversedCodeOfString/releases/download/1.0/ReversedCodeOfString.exe)
 
+You can download [sourse code](https://github.com/Ilya-Kolomin/ReversedCodeOfString/archive/refs/tags/1.0.tar.gz) untar it (running in terminal `tar ReversedCodeOfString-1.0.tar.gz`) and complie it by yourself using any C compiler you wish (example `gcc main.cpp`).
+
 ## Credits
 [Ilya Kolomin](https://www.google.com)
 
