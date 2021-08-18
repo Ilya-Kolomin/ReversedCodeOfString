@@ -1,8 +1,9 @@
-# ReCoSt
+# ReversedCodeOfString
 ## Description
 This app is designed to help people to get reverse code of their string inputs. It gets users input string and outputs the reverse code of that string.
 ## Screenshoots
-
+![](https://github.com/Ilya-Kolomin/ReversedCodeOfString/blob/main/Screenshots/1.jpg?raw=true)
+![](https://github.com/Ilya-Kolomin/ReversedCodeOfString/blob/main/Screenshots/2.png?raw=true)
 ## How to use it
 Download binary file and run it on your local machine
 
